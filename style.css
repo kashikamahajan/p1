@@ -1,0 +1,83 @@
+
+            h1{
+                color:blanchedalmond;
+                font: italic normal 2.4em georgia, sans-serif;
+                display:flex;
+                justify-content:space-evenly;
+                border:solid;
+            }
+            
+            a1{
+                font: italic normal 1.4em georgia, sans-serif;
+                color: #12cb99;
+                border:solid;
+                border-radius: 1mm;
+                
+                letter-spacing: 1px; 
+                border-color: rgb(46, 203, 250);
+            }
+            a{
+                font: italic normal 1.4em georgia, sans-serif;
+               
+                border:solid;
+                border-radius: 1mm;
+                
+                letter-spacing: 1px; 
+               
+            }
+            .header
+            {
+                background-color: rgb(250, 127, 113);
+                display:flex;
+                justify-content:center;
+                
+                border:solid;
+                border-radius: 1mm;
+                border-width: 4mm;
+                border-color: blanchedalmond;
+                
+            }
+
+            .menu
+            {
+                background-color: rgb(179, 238, 167);
+                display:flex;
+                justify-content:space-evenly;
+                
+                border:solid;
+                border-radius: 1mm;
+                border-color: rgb(121, 224, 255);
+                
+            }
+
+            .grid
+            {
+                background-color: coral;
+                display :flex;
+                flex-wrap: wrap;
+                border:solid;
+                border-radius: 1mm;
+               
+                
+                justify-content:space-evenly;
+            }
+            .footer
+            {
+                background-color: cornflowerblue;
+                display:flex;
+                justify-content: flex-end;
+                border:solid;
+                border-radius: 1mm;
+                
+                
+            }
+            p,h2{
+                text-align: center;
+                border: solid;
+
+            }
+            body{
+                background-color: #808080;
+            }
+
+            
